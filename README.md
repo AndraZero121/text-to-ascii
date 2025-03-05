@@ -1,13 +1,13 @@
 # Shiroko ASCII Converter Pro 🎮
 
 <div align="center">
-  <img src="https://pbs.twimg.com/profile_images/1575119130293768192/wYFj1kYZ_400x400.jpg" width="200" height="200">
+  <img src="https://media1.tenor.com/m/ropc7R3ldMkAAAAC/shiroko-iwak.gif" width="200" height="200">
   <p><em>Convert your messages into Shiroko's secret code!</em></p>
 </div>
 
 ## 📝 Overview
 
-A web-based text encoder/decoder that converts text to and from Shiroko ASCII code using special Unicode characters. This fun project lets you create secret messages using invisible Unicode characters, themed around Blue Archive's Shiroko character.
+A web-based text encoder/decoder that converts text to and from Shiroko ASCII code using special Unicode characters. This fun project lets you create secret messages using invisible Unicode characters, themed around Blue Archive's Shiroko character. This is using PHP for Programming Language.
 
 ## 🌟 Features
 
