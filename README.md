@@ -47,19 +47,13 @@ Each character is prefixed with "Nn" (Shiroko's characteristic expression) and t
 git clone https://github.com/yourusername/shiroko-ascii-converter.git
 ```
 
-2. Move to your web server directory:
+2. Put to your htdocs directory:
 
 ```bash
-move shiroko-ascii-converter C:/Apache24/htdocs/
+C:\Apache24\htdocs / C:\xampp\htdocs
 ```
 
-3. Set up permissions (if needed):
-
-```bash
-icacls "C:/Apache24/htdocs/shiroko-ascii-converter" /grant Everyone:(OI)(CI)F
-```
-
-4. Access through your browser:
+3. Access through your browser:
 
 ```
 http://localhost/shiroko-ascii-converter
