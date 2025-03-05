@@ -44,7 +44,7 @@ Each character is prefixed with "Nn" (Shiroko's characteristic expression) and t
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/shiroko-ascii-converter.git
+git clone https://github.com/yourusername/text-to-ascii.git
 ```
 
 2. Put to your htdocs directory:
@@ -56,7 +56,7 @@ C:\Apache24\htdocs / C:\xampp\htdocs
 3. Access through your browser:
 
 ```
-http://localhost/shiroko-ascii-converter
+http://localhost/text-to-ascii
 ```
 
 ## ⚙️ Requirements
