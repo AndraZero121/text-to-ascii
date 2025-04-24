@@ -1,4 +1,4 @@
-# Shiroko ASCII Converter Pro 🎮
+# Shiroko ASCII Converter 🎮
 
 <div align="center">
   <img src="https://media1.tenor.com/m/ropc7R3ldMkAAAAC/shiroko-iwak.gif" width="200" height="200">
